@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1623934576 source:d:\college\it206 - data structures lab\project\medicolocator\main.cpp
+	<iostream>
+	<Retailer.h>
+	<string>
+	<Customer.h>
+	<HashTable.h>
+
+1623932649 source:d:\college\it206 - data structures lab\project\medicolocator\src\retailer.cpp
+	"Retailer.h"
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<bits/stdc++.h>
+
+1623932290 d:\college\it206 - data structures lab\project\medicolocator\include\retailer.h
+	<string>
+
+1623900957 d:\college\it206 - data structures lab\project\medicolocator\include\customer.h
+	<string>
+	<bits/stdc++.h>
+
+1623934752 source:d:\college\it206 - data structures lab\project\medicolocator\src\customer.cpp
+	"Customer.h"
+	<string>
+	<fstream>
+	<iostream>
+	<bits/stdc++.h>
+
+1623756983 source:d:\college\it206 - data structures lab\project\medicolocator\src\node.cpp
+	"Node.h"
+
+1623769463 d:\college\it206 - data structures lab\project\medicolocator\include\node.h
+	"HashTable.h"
+	<bits/stdc++.h>
+
+1623933606 d:\college\it206 - data structures lab\project\medicolocator\include\hashtable.h
+	"Node.h"
+	<bits/stdc++.h>
+
+1623933622 source:d:\college\it206 - data structures lab\project\medicolocator\src\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+	<Node.h>
+	<bits/stdc++.h>
+	<fstream>
+
